@@ -7,5 +7,6 @@
 | API Calls           | Axios                    | HTTP client for API communication          |
 | Form Handling       | React Hook Form          | Form validation and state management        |
 | State Management    | Redux Toolkit            | Simplified Redux state management          |
+| Build Tool          | Vite                     | Fast build tool and development server for React |
 | Backend Framework   | Express.js               | Node.js backend framework                  |
 | Database            | MSSQL / PostgreSQL / DynamoDB | Choice of relational or NoSQL database    |
